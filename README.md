@@ -1,2 +1,2 @@
 # Billy's Website
-[Visit it Here!](https://billymike02.github.io)
+[Here's a link to my website.](https://billymike02.github.io)
